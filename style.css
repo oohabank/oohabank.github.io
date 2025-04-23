@@ -1,0 +1,127 @@
+.dropbtn {
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #2980B9;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown a:hover {background-color: #ddd;}
+
+.show {display: block;}
+
+.name {
+    text-align: center;
+    font-family: sans-serif;
+    background: grey;
+}
+
+header {
+    background: grey;
+    color: #fff;
+    padding: 20px 0;
+    align-items: center;
+}
+
+.hellop {
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.bankh {
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.day {
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.menacc {
+    color: grey;
+    font-family: sans-serif;
+}
+
+.osnovm {
+    color: grey;
+    font-family: sans-serif;
+}
+
+.pustog {
+    font-family: sans-serif;
+    color: grey;
+    text-align: center;
+    font-size: 20px;
+}
+
+.obnovkabot {
+    font-family: sans-serif;
+    color: grey;
+    font-size: 15px;
+}
+
+.onemesto {
+    font-family: sans-serif;
+    color: black;
+    font-size: 19px;
+    text-align: center;
+}
+
+.twomesto {
+    font-family: sans-serif;
+    color: black;
+    font-size: 19px;
+    text-align: center;
+}
+
+.threemesto {
+    font-family: sans-serif;
+    color: black;
+    font-size: 19px;
+    text-align: center;
+}
+
+.iluhah {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.news {
+    font-family: sans-serif;
+}
+
+.version {
+    font-family: sans-serif;
+}
+
+.sversia {
+    font-family: sans-serif;
+}

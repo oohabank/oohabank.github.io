@@ -1,0 +1,18 @@
+<header>
+    <h1 class="name">Главная / O.O.H.AIБанк</h1>
+
+
+<div class="dropdown">
+<button onclick="myFunction()" class="dropbtn">☰</button>
+  <div id="myDropdown" class="dropdown-content">
+    <p class="osnovm">Основное</p>
+    <a href="index.html">Главная</a>
+    <a href="about.html">О приложении</a>
+    <a href="top.html">ТОП</a>
+    <a href="developers.html">Разработчики</a>
+    <a href="gallerey.html">Гелерея</a>
+    <p class="menacc">Аккаунты</p>
+   
+  </div>
+</div>
+</header>
