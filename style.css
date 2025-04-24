@@ -125,3 +125,63 @@ header {
 .sversia {
     font-family: sans-serif;
 }
+
+.infom {
+    color: grey;
+    font-family: sans-serif;
+}
+
+.fourmesto {
+    font-family: sans-serif;
+    color: black;
+    font-size: 19px;
+    text-align: center;
+}
+
+.fivemesto {
+    font-family: sans-serif;
+    color: black;
+    font-size: 19px;
+    text-align: center;
+}
+
+.oglavleniye {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.vcain {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.adminin {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.rules {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.inform {
+    font-family: sans-serif;
+}
+
+.block {
+    font-family: sans-serif;
+    background-color: red;
+    text-align: center;
+}
+
+.primerblock {
+    width: 500px;
+    height: 500px;
+}
+
+.vcas {
+    font-family: sans-serif;
+    font-size: 17px;
+}
+
