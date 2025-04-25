@@ -1,1 +1,5 @@
     <h1 class="block">ЗАБЛОКИРОВАН системой <a href="info.html">VCA</a></h1>    
+
+
+    <center><img src="https://emojio.ru/images/apple-b/1f648.png" alt="Я не вижу"></center>
+    <p class="pustog">Пока-что пусто...</p>

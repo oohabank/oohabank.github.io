@@ -185,3 +185,15 @@ header {
     font-size: 17px;
 }
 
+.oblojka {
+    width: 500px;
+    height: 400px;
+}
+
+.byras {
+    font-family: sans-serif;
+}
+
+.background {
+    background-image: url("backgound-site.png");
+}
