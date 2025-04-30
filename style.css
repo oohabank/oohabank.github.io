@@ -202,3 +202,27 @@ header {
     font-family: sans-serif;
     
 }
+
+.descacc {
+    font-family: sans-serif;
+}
+
+.algobtn {
+    padding: 10px;
+    background-color: #d400ff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.algoritmicks {
+    color: #d400ff;
+}
+
+.descriptionacc {
+    text-align: center;
+    background-color: rgb(231, 231, 231);
+    display: inline-block;
+    vertical-align: middle;
+}
