@@ -226,3 +226,13 @@ header {
     display: inline-block;
     vertical-align: middle;
 }
+
+.addAcc {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.rezume {
+    font-family: sans-serif;
+    text-align: center;
+}
