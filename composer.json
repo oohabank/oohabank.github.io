@@ -1,0 +1,27 @@
+{
+    "name": "qexyorg/ucave",
+    "description": "UCave - Проект серверов Minecraft",
+    "type": "project",
+    "license": "",
+    "authors": [
+        {
+            "name": "Qexy",
+            "email": "admin@qexy.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.2",
+        "twig/twig": "^2.0",
+		"ext-json": "*",
+		"ext-mysqli": "*",
+		"ext-curl": "*",
+		"ext-iconv": "*"
+	},
+    "autoload": {
+        "psr-4": {
+            "App\\": "Applications/UCave/",
+            "Component\\": "Components/"
+        }
+    }
+}
